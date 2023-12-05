@@ -50,5 +50,8 @@ class Main{
         //u1.detail();
     }
 
+    public static void abc(){
+        System.out.println("hello");
+    }
 
 }
